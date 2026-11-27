@@ -57,7 +57,7 @@ template, and follow its README. Everything you need is inside the track reposit
 | 28 Nov, 1:00 PM | **Review 3** (optional) |
 | 28 Nov, 5:00 PM | **Finale**: code freeze (submit your final commit SHA) and final demonstrations |
 
-Create your repository, add `SiliconSprint2026` and register **before Review 1**.
+Create your repository, add `SiliconSprint2026` and `silicon-sprint-bphc` register **before Review 1**.
 All reviews happen over video call; slots and links are posted on the WhatsApp channel.
 What each review covers is in your track's `docs/3_event_guide.md`.
 
